@@ -1,7 +1,7 @@
 [![coverage report]()]()
 [![build status]()]()
 
-Proxy GIN
+Proxy InvestC
 ===================
 
 ## Synopsis
